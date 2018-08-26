@@ -10,28 +10,18 @@ with open('small.city.list.json') as f:
 print("This script will import data from a file.")
 #pprint(data)
 
-outdata = {}
+outdata = list()
 
 print(len(data))
 print(type(data))
 
 for index in range(len(data)): 
-    # print(data[index]["id"])
-    # print(data[index]["coord"])
-    # outdata[index]["id"] = data[index]["id"]
-    # outdata[index]["coord"] = data[index]["coord"]
-    # outdata[index]["name"] = data[index]["name"]
-    # outdata[index]["country"] = data[index]["country"]
-    outdata[index] = []
-    outdata[index].append({
+    outdata.append({
         'id': data[index]["id"],
         'coord': data[index]["coord"],
         'name': data[index]["name"],
         'country': data[index]["country"]
     })
-
-
-pprint(outdata)
 
 with open('output.json', 'w') as outf:
     json.dump(outdata, outf, indent=4)

@@ -1,222 +1,182 @@
-{
-    "0": [
-        {
-            "id": 2758878,
-            "coord": {
-                "lon": 5.22083,
-                "lat": 51.368328
-            },
-            "name": "Bladel",
-            "country": "NL"
-        }
-    ],
-    "1": [
-        {
-            "id": 2758998,
-            "coord": {
-                "lon": 4.65694,
-                "lat": 52.48333
-            },
-            "name": "Beverwijk",
-            "country": "NL"
-        }
-    ],
-    "2": [
-        {
-            "id": 2759016,
-            "coord": {
-                "lon": 5.76667,
-                "lat": 51.860828
-            },
-            "name": "Beuningen",
-            "country": "NL"
-        }
-    ],
-    "3": [
-        {
-            "id": 2759040,
-            "coord": {
-                "lon": 5.39028,
-                "lat": 51.5075
-            },
-            "name": "Best",
-            "country": "NL"
-        }
-    ],
-    "4": [
-        {
-            "id": 2759113,
-            "coord": {
-                "lon": 4.49861,
-                "lat": 51.990002
-            },
-            "name": "Bergschenhoek",
-            "country": "NL"
-        }
-    ],
-    "5": [
-        {
-            "id": 2759132,
-            "coord": {
-                "lon": 5.35833,
-                "lat": 51.319172
-            },
-            "name": "Bergeyk",
-            "country": "NL"
-        }
-    ],
-    "6": [
-        {
-            "id": 2759145,
-            "coord": {
-                "lon": 4.29167,
-                "lat": 51.494999
-            },
-            "name": "Bergen op Zoom",
-            "country": "NL"
-        }
-    ],
-    "7": [
-        {
-            "id": 2759178,
-            "coord": {
-                "lon": 4.54444,
-                "lat": 52.077499
-            },
-            "name": "Benthuizen",
-            "country": "NL"
-        }
-    ],
-    "8": [
-        {
-            "id": 2759350,
-            "coord": {
-                "lon": 5.79722,
-                "lat": 50.94083
-            },
-            "name": "Beek",
-            "country": "NL"
-        }
-    ],
-    "9": [
-        {
-            "id": 2759407,
-            "coord": {
-                "lon": 5.58472,
-                "lat": 52.139999
-            },
-            "name": "Barneveld",
-            "country": "NL"
-        }
-    ],
-    "10": [
-        {
-            "id": 2759426,
-            "coord": {
-                "lon": 4.53472,
-                "lat": 51.85667
-            },
-            "name": "Barendrecht",
-            "country": "NL"
-        }
-    ],
-    "11": [
-        {
-            "id": 2759544,
-            "coord": {
-                "lon": 5.2875,
-                "lat": 52.21167
-            },
-            "name": "Baarn",
-            "country": "NL"
-        }
-    ],
-    "12": [
-        {
-            "id": 2759621,
-            "coord": {
-                "lon": 5.74861,
-                "lat": 51.404171
-            },
-            "name": "Asten",
-            "country": "NL"
-        }
-    ],
-    "13": [
-        {
-            "id": 2759633,
-            "coord": {
-                "lon": 6.5625,
-                "lat": 52.99667
-            },
-            "name": "Assen",
-            "country": "NL"
-        }
-    ],
-    "14": [
-        {
-            "id": 2759661,
-            "coord": {
-                "lon": 5.91111,
-                "lat": 51.98
-            },
-            "name": "Arnhem",
-            "country": "NL"
-        }
-    ],
-    "15": [
-        {
-            "id": 2759706,
-            "coord": {
-                "lon": 5.96944,
-                "lat": 52.209999
-            },
-            "name": "Apeldoorn",
-            "country": "NL"
-        }
-    ],
-    "16": [
-        {
-            "id": 2759746,
-            "coord": {
-                "lon": 6.70139,
-                "lat": 53.04417
-            },
-            "name": "Anloo",
-            "country": "NL"
-        }
-    ],
-    "17": [
-        {
-            "id": 2759794,
-            "coord": {
-                "lon": 4.88969,
-                "lat": 52.374031
-            },
-            "name": "Amsterdam",
-            "country": "NL"
-        }
-    ],
-    "18": [
-        {
-            "id": 2759798,
-            "coord": {
-                "lon": 4.86389,
-                "lat": 52.300831
-            },
-            "name": "Amstelveen",
-            "country": "NL"
-        }
-    ],
-    "19": [
-        {
-            "id": 2759821,
-            "coord": {
-                "lon": 5.3875,
-                "lat": 52.154999
-            },
-            "name": "Amersfoort",
-            "country": "NL"
-        }
-    ]
-}
+[
+    {
+        "id": 2758878,
+        "coord": {
+            "lon": 5.22083,
+            "lat": 51.368328
+        },
+        "name": "Bladel",
+        "country": "NL"
+    },
+    {
+        "id": 2758998,
+        "coord": {
+            "lon": 4.65694,
+            "lat": 52.48333
+        },
+        "name": "Beverwijk",
+        "country": "NL"
+    },
+    {
+        "id": 2759016,
+        "coord": {
+            "lon": 5.76667,
+            "lat": 51.860828
+        },
+        "name": "Beuningen",
+        "country": "NL"
+    },
+    {
+        "id": 2759040,
+        "coord": {
+            "lon": 5.39028,
+            "lat": 51.5075
+        },
+        "name": "Best",
+        "country": "NL"
+    },
+    {
+        "id": 2759113,
+        "coord": {
+            "lon": 4.49861,
+            "lat": 51.990002
+        },
+        "name": "Bergschenhoek",
+        "country": "NL"
+    },
+    {
+        "id": 2759132,
+        "coord": {
+            "lon": 5.35833,
+            "lat": 51.319172
+        },
+        "name": "Bergeyk",
+        "country": "NL"
+    },
+    {
+        "id": 2759145,
+        "coord": {
+            "lon": 4.29167,
+            "lat": 51.494999
+        },
+        "name": "Bergen op Zoom",
+        "country": "NL"
+    },
+    {
+        "id": 2759178,
+        "coord": {
+            "lon": 4.54444,
+            "lat": 52.077499
+        },
+        "name": "Benthuizen",
+        "country": "NL"
+    },
+    {
+        "id": 2759350,
+        "coord": {
+            "lon": 5.79722,
+            "lat": 50.94083
+        },
+        "name": "Beek",
+        "country": "NL"
+    },
+    {
+        "id": 2759407,
+        "coord": {
+            "lon": 5.58472,
+            "lat": 52.139999
+        },
+        "name": "Barneveld",
+        "country": "NL"
+    },
+    {
+        "id": 2759426,
+        "coord": {
+            "lon": 4.53472,
+            "lat": 51.85667
+        },
+        "name": "Barendrecht",
+        "country": "NL"
+    },
+    {
+        "id": 2759544,
+        "coord": {
+            "lon": 5.2875,
+            "lat": 52.21167
+        },
+        "name": "Baarn",
+        "country": "NL"
+    },
+    {
+        "id": 2759621,
+        "coord": {
+            "lon": 5.74861,
+            "lat": 51.404171
+        },
+        "name": "Asten",
+        "country": "NL"
+    },
+    {
+        "id": 2759633,
+        "coord": {
+            "lon": 6.5625,
+            "lat": 52.99667
+        },
+        "name": "Assen",
+        "country": "NL"
+    },
+    {
+        "id": 2759661,
+        "coord": {
+            "lon": 5.91111,
+            "lat": 51.98
+        },
+        "name": "Arnhem",
+        "country": "NL"
+    },
+    {
+        "id": 2759706,
+        "coord": {
+            "lon": 5.96944,
+            "lat": 52.209999
+        },
+        "name": "Apeldoorn",
+        "country": "NL"
+    },
+    {
+        "id": 2759746,
+        "coord": {
+            "lon": 6.70139,
+            "lat": 53.04417
+        },
+        "name": "Anloo",
+        "country": "NL"
+    },
+    {
+        "id": 2759794,
+        "coord": {
+            "lon": 4.88969,
+            "lat": 52.374031
+        },
+        "name": "Amsterdam",
+        "country": "NL"
+    },
+    {
+        "id": 2759798,
+        "coord": {
+            "lon": 4.86389,
+            "lat": 52.300831
+        },
+        "name": "Amstelveen",
+        "country": "NL"
+    },
+    {
+        "id": 2759821,
+        "coord": {
+            "lon": 5.3875,
+            "lat": 52.154999
+        },
+        "name": "Amersfoort",
+        "country": "NL"
+    }
+]
